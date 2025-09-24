@@ -10,7 +10,7 @@ This dashboard is made with [MCL Multi Column](https://github.com/efemkay/obsidi
 Heavily inspired by [this design](https://www.reddit.com/r/ObsidianMD/comments/1mk3vas/how_to_achieve_this_layout_made_some_progress_but/).
 I'll admit that the syntax for the dashboard is... not the greatest(5 layered callouts!?). But I really find this to be pretty, accessible, and easily configurable :)
 
-[Banner](https://i.pinimg.com/1200x/50/df/2a/50df2a87e9383eb90312eb202eee169b.jpg)|[Icon](https://i.bobopic.com/small/89300338.jpg)
+[Banner](https://i.pinimg.com/1200x/50/df/2a/50df2a87e9383eb90312eb202eee169b.jpg) | [Icon](https://i.bobopic.com/small/89300338.jpg)
 
 ***
 
