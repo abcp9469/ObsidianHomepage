@@ -1,0 +1,100 @@
+.callout[data-callout="dashboard"] {
+
+  background: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+
+  > .callout-title {
+    display: none;
+  }
+
+  *.callout-title {
+    font-size: large;
+  }
+
+  *.callout-icon {
+    display: none !important;
+  }
+
+
+  .callout[data-callout="stats"] {
+    margin: 0 !important;
+    padding: 20px !important;
+
+    > .callout-title {
+      font-size: larger;
+    }
+    
+    > .callout-content {
+      display: flex;
+      flex-direction: row;
+      gap: 20px;
+      
+      .callout[data-callout="stat"] {
+
+        flex: 1;
+        padding: 15px;
+        border: 2px solid var(--interactive-accent);
+        border-radius: 8px;
+        text-align: center;
+        font-size: 1.2rem;
+        border: none !important;
+
+      }
+
+    }
+  }
+
+   .callout[data-callout="main"] {
+      padding: 0 !important;
+      margin: 0 !important;
+      background: none !important;
+      margin-top: 20px !important;
+      width: 100% !important;
+
+      > .callout-title {
+        display: none;
+      }
+
+      > .callout-content {
+        display: flex;
+        gap: 20px;
+
+        /* dunno why but if its just "=" instead of "*=" it doesn't work */
+        .callout[data-callout*="left-column"], .callout[data-callout="right-column"] {
+          margin: 0 !important;
+          padding: 0 !important;
+          background: none !important;
+
+          > .callout-title {
+            display: none;
+          }
+
+          > .callout-content {
+            .callout[data-callout="box"] {
+              margin-top: 0 !important;
+            }
+          }
+
+        }
+
+        /* Change how wide you want your columns to be */
+        .callout[data-callout*="left-column"] {
+          flex: 0.22;
+        }
+        .callout[data-callout="right-column"] {
+          flex: 1;
+        }
+
+
+      }
+
+   }
+
+
+}
+
+/* remove random margin lefts, which breaks the flow of the dashboard */
+.el-hr.data_h3, .el-div.heading_h3, .el-hr.data_h1, .el-div.data_h1, .el-iframe.data_h3 {
+  margin-left: 0px !important;
+}
