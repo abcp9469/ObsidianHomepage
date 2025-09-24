@@ -78,12 +78,16 @@
 
         }
 
-        /* Change how wide you want your columns to be */
+        /* Change how wide you want your columns to be. */
         .callout[data-callout*="left-column"] {
-          flex: 0.22;
+          flex: 0.25; /* this is just a percentage of how much space you want the left column to take */
         }
         .callout[data-callout="right-column"] {
           flex: 1;
+        }
+
+        .callout[data-callout="multi-column"] {
+          margin: 0 !important;
         }
 
 
