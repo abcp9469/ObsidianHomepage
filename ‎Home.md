@@ -1,6 +1,4 @@
 ---
-streak: 1
-lastClicked: 2025-09-21
 banner: https://i.pinimg.com/1200x/50/df/2a/50df2a87e9383eb90312eb202eee169b.jpg
 icon: https://i.bobopic.com/small/89300338.jpg
 ---
